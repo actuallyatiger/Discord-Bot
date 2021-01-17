@@ -23,6 +23,7 @@
   "homepage": "https://github.com/actuallyatiger/Discord-Bot#readme",
   "dependencies": {
     "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
     "eslint": "^7.18.0",
     "prettier": "^2.2.1"
   }
